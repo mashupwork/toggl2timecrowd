@@ -45,3 +45,10 @@ group :development do
   gem 'spring'
 end
 
+gem 'dotenv-rails'
+gem 'awesome_print'
+gem 'togglv8'
+
+gem 'omniauth-timecrowd', github: 'pandeiro245/omniauth-timecrowd', branch: 'issue-1'
+
+gem 'slim'
